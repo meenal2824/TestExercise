@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_34be76bb2f107bc062112d6146e04f53ecaaade4.jar" />
+    </item>
+    <item
+        jar="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\libs\retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\pre-dexed\release\retrofit-2.1.0_dca6af6a95b11197c414699c038008792945dd5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sudesi infotech\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\pre-dexed\release\gson-2.7_ab9d7062d32c1525a386ef501226f3a4262dc539.jar" />
+    </item>
+    <item
+        jar="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\libs\okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\pre-dexed\release\okhttp-3.3.0_7b7dfc7d8d1c0b968e3ca31049c0fa78b6e10f1b.jar" />
+    </item>
+    <item
+        jar="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_0b79146b0384bb19ca19f340edcbbda5a85cb0aa.jar" />
+    </item>
+    <item
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_fb9a26873371dc18cb49f7a0b725dba248d20867.jar" />
+    </item>
+    <item
+        jar="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\libs\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\pre-dexed\release\converter-gson-2.1.0_6f68dcd2c9e7b52a4edd20073bd882a5b7262356.jar" />
+    </item>
+    <item
+        jar="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\libs\glide-3.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="82552712133e094bbb565289fb2bc2d2952ba551">
+        <dex dex="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\pre-dexed\release\glide-3.4.0_8e3f696c2469b83b5df5cae1a5103f169356072e.jar" />
+    </item>
+    <item
+        jar="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\libs\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\Sample\Android Swipe to Refresh ListView\Android\TestExercise\app\build\intermediates\pre-dexed\release\okio-1.8.0_c2365fc89e2b237505b423bed4ddb4ceba132642.jar" />
+    </item>
+
+</items>

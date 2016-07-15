@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Sample\\Android Swipe to Refresh ListView\\Android\\TestExercise\\app\\build\\intermediates\\res\\merged\\release\\layout\\message_view.xml",
+        "source": "D:\\Sample\\Android Swipe to Refresh ListView\\Android\\TestExercise\\app\\src\\main\\res\\layout\\message_view.xml"
+    },
+    {
+        "merged": "D:\\Sample\\Android Swipe to Refresh ListView\\Android\\TestExercise\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_row.xml",
+        "source": "D:\\Sample\\Android Swipe to Refresh ListView\\Android\\TestExercise\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "D:\\Sample\\Android Swipe to Refresh ListView\\Android\\TestExercise\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_home.xml",
+        "source": "D:\\Sample\\Android Swipe to Refresh ListView\\Android\\TestExercise\\app\\src\\main\\res\\layout\\activity_home.xml"
+    }
+]
